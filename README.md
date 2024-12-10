@@ -1,7 +1,3 @@
-Here’s an improved and visually engaging version of your `README.md` for the **Learn Blockchains by Building One** project:
-
----
-
 # 📖 **Learn Blockchains by Building One**
 
 [![Build Status](https://travis-ci.org/dvf/blockchain.svg?branch=master)](https://travis-ci.org/dvf/blockchain)
